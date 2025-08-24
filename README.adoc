@@ -1,0 +1,259 @@
+= Tech 1 Semester Plan
+
+== About the course
+
+link:00._Course_Material/00._Meta_Course_Material/about_the_course.md[About the course]
+
+== Semester Plan
+
+The semester plan is subject to modifications during the semester.
+
+**Taught on**: Monday, Friday
+
+[width="100%",cols="15%,7%,23%,30%,25%",options="header",]
+|===
+| Title | Date | Description | Learning Goals | Resources and Activities
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 1
+| Aug. 25th
+
+a|
+link:00._Course_Material/02._Slides/01._Terminal_Git/01._Introduction.md[Introduction]
+
+link:00._Course_Material/02._Slides/01._Terminal_Git/02._File_Systems.md[File Systems]
+
+link:00._Course_Material/02._Slides/01._Terminal_Git/03._Terminal_Commands.md[Terminal Commands]
+
+link:00._Course_Material/02._Slides/01._Terminal_Git/04._Git_vs._GitHub.md[Git vs. GitHub]
+
+link:00._Course_Material/02._Slides/01._Terminal_Git/05._Hands-on_git.md[Hands-on git]
+
+link:00._Course_Material/02._Slides/01._Terminal_Git/06._.gitignore.md[.gitignore]
+
+
+a|
+Can navigate the terminal: `ls`, `cd`, `whoami`, `pwd`.
+
+Can create, delete files / folders: `mkdir`, `rm`, `cp`, `mv`, `touch`, `nano`.
+
+Cam use the following basic terminal commands: `cat`, `wc`, `uniq`, `sort`.
+
+Can create a new repository in your prefered Git provider.
+
+Can perform basic Git operations: `clone`, `add`, `commit`, `push`, `pull`.
+
+Understands the basic hardware components of a computer system and the Von Neumann architecture.
+
+a|
+
+
+link:00._Course_Material/01._Assignments/01._Terminal_Git/Projekt-til-Github_(Tara).pdf[Project-til-Github (Tara)]
+
+link:00._Course_Material/01._Assignments/01._Terminal_Git/install_mysql_datagrip.md[Install MySQL and DataGrip]
+
+https://classroom.github.com/a/ihU6VrZ9[Command Line Exercises]
+
+Watch from #3 - #7 over the next few weeks:
+https://www.youtube.com/watch?v=gI-qXk7XojA&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=4[YouTube - Crash Course Computer Science]
+
+
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 2
+| Sept. 5
+
+a|
+Git Refresher / Markdown
+
+Database Paradigms
+
+SQL
+
+DDL
+
+DML
+
+a|
+Knows about different types of databases and their use cases.
+
+Can setup a new MySQL database and connect to it.
+
+Can create DDL statements to create tables. 
+
+Can create DML (`SELECT`, `INSERT`) statements.
+
+Can use `WHERE` clause to filter results.
+
+a| 
+https://www.youtube.com/watch?v=VfcRxtBKI54[YouTube - Types of Databases]
+
+// link:00._Course_Material/01._Assignments/02._Databases_Introduction_to_SQL/countries_dml.md[Countries (DML)]
+
+// link:00._Course_Material/01._Assignments/02._Databases_Introduction_to_SQL/azure_for_students.md[Azure for Students]
+
+
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 3
+| Sept. 12th
+
+a|
+SQL II
+
+a|
+Can define Primary Keys.
+
+Understands how Foreign Keys work.
+
+In `SELECT` statements, can use (with moderate help):
+
+* `LIMIT`, `ORDER BY`, `GROUP BY` 
+* aggregate functions like `COUNT`, `SUM`, `AVG`, `MIN`, and `MAX`
+* pattern matching with `LIKE` and wildcards
+* `JOIN` to combine data from multiple tables
+
+Can create inner, left and right joins after looking up the syntax.
+
+Can create DDL statements to create tables with constraints: `PRIMARY KEY`, `AUTO_INCREMENT`, `FOREIGN KEY`, `UNIQUE`, `NOT NULL`.
+
+Can create DML (`UPDATE`, `DELETE`) statements.
+
+Can create a pull request.
+
+
+a| 
+// https://datalemur.com/sql-tutorial/sql-joins-inner-outer-left-right
+
+// link:00._Course_Material/01._Assignments/03._Databases_SQL_II/tech_company/tech_company.md[Tech Company]
+
+// link:00._Course_Material/01._Assignments/03._Databases_SQL_II/Pull_request_exercise_1.pdf[Pull_request_exercise_1.pdf]
+
+
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 4
+| Sept. 19th
+
+a|
+
+Git Branching
+
+Merge Conflicts
+
+YAML
+
+GitHub Actions I
+
+
+a|
+
+// Understands different Git workflows such as GitHub Flow.
+
+// Can solve a merge conflict.
+
+// Can write YAML files.
+
+// Can give use cases for GitHub actions.
+
+// Understands what GitHub actions are and can breakdown workflows into runners, jobs, and steps.
+
+
+a| 
+// https://anderslatif.github.io/yaml_tutorial/
+
+// Github_Actions.pdf
+
+// Pull_request_exercise_2_merge_conflict.pdf.
+
+// Visualizing_GitHub_Flow_v2.pdf[Optional - Visualizing GitHub Flow]
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 5
+| Sept. 22nd
+
+a|
+GitHub Actions II
+
+Number Representations
+- Binary
+- Hex
+- Charsets (ASCII / Unicode)
+
+a|
+// Can explain how computers work, starting from hardware all the way to software.
+
+// Can talk about processes in operating systems.
+
+// Can talk about different number representations and what they are used for.
+
+// Can explain different charsets like ASCII and Unicode and how they differ.
+a| 
+
+
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 6
+| Oct. 3rd
+
+a|
+Cloud
+
+Azure Deployment
+
+a|
+// Learning Goals
+a| 
+// Activities
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+| 7
+| Oct. 6th
+
+a|
+Database Deployment
+
+Database Transactions
+
+a|
+// Learning Goals
+a| 
+// Activities
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 8
+| Oct. 13th
+
+a|
+Holiday
+
+a|
+Holiday
+
+a|
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 9
+| Oct. 24th
+
+a|
+Threads
+
+a|
+
+a|
+
+
+
