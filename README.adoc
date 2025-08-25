@@ -45,8 +45,7 @@ Understands the basic hardware components of a computer system and the Von Neuma
 
 a|
 
-
-link:00._Course_Material/01._Assignments/01._Terminal_Git/Projekt-til-Github_\(Tara\).pdf[Project-til-Github (Tara)]
+link:00._Course_Material/01._Assignments/01._Terminal_Git/Projekt-til-Github_Tara.pdf[Project-til-Github (Tara)]
 
 link:00._Course_Material/01._Assignments/01._Terminal_Git/install_mysql_datagrip.md[Install MySQL and DataGrip]
 
