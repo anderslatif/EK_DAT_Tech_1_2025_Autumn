@@ -30,15 +30,12 @@ link:00._Course_Material/02._Slides/01._Terminal_Git/04._Git_vs._GitHub.md[Git v
 
 link:00._Course_Material/02._Slides/01._Terminal_Git/05._Hands-on_git.md[Hands-on git]
 
-link:00._Course_Material/02._Slides/01._Terminal_Git/06._.gitignore.md[.gitignore]
-
-
 a|
 Can navigate the terminal: `ls`, `cd`, `whoami`, `pwd`.
 
 Can create, delete files / folders: `mkdir`, `rm`, `cp`, `mv`, `touch`, `nano`.
 
-Cam use the following basic terminal commands: `cat`, `wc`, `uniq`, `sort`.
+Can use the following basic terminal commands: `cat`, `wc`, `uniq`, `sort`.
 
 Can create a new repository in your prefered Git provider.
 
@@ -49,7 +46,7 @@ Understands the basic hardware components of a computer system and the Von Neuma
 a|
 
 
-link:00._Course_Material/01._Assignments/01._Terminal_Git/Projekt-til-Github_(Tara).pdf[Project-til-Github (Tara)]
+link:00._Course_Material/01._Assignments/01._Terminal_Git/Projekt-til-Github_\(Tara\).pdf[Project-til-Github (Tara)]
 
 link:00._Course_Material/01._Assignments/01._Terminal_Git/install_mysql_datagrip.md[Install MySQL and DataGrip]
 
