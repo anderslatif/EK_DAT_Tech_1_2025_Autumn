@@ -62,15 +62,25 @@ https://www.youtube.com/watch?v=gI-qXk7XojA&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZB
 | Sept. 5
 
 a|
-Git Refresher / Markdown
+link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/01._Git_Refresher_Markdown.md[01. Git Refresher Markdown]
 
-Database Paradigms
+link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/02._Database_Paradigms.md[02. Database Paradigms]
 
-SQL
+link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/03._SQL.md[03. SQL]
 
-DDL
+link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/04._DDL.md[04. DDL]
 
-DML
+link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/05._DML.md[05. DML]
+
+// Git Refresher / Markdown
+
+// Database Paradigms
+
+// SQL
+
+// DDL
+
+// DML
 
 a|
 Knows about different types of databases and their use cases.
@@ -139,11 +149,9 @@ a|
 
 Git Branching
 
-Merge Conflicts
 
-YAML
 
-GitHub Actions I
+//GitHub Actions I
 
 
 a|
