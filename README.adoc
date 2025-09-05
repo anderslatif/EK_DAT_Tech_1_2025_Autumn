@@ -90,6 +90,8 @@ Can create DML (`SELECT`, `INSERT`) statements.
 Can use `WHERE` clause to filter results.
 
 a| 
+https://www.markdowntutorial.com/
+
 https://www.youtube.com/watch?v=VfcRxtBKI54[YouTube - Types of Databases]
 
 link:00._Course_Material/01._Assignments/02._Databases_Introduction_to_SQL/countries_dml.md[Countries (DML)]
