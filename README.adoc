@@ -108,7 +108,17 @@ link:00._Course_Material/01._Assignments/02._Databases_Introduction_to_SQL/azure
 | Sept. 12th
 
 a|
-SQL II
+link:00._Course_Material/02._Slides/03._Databases_SQL_II/01._Primary_Keys.md[Primary Keys]
+
+link:00._Course_Material/02._Slides/03._Databases_SQL_II/02._SELECT_ORDER_GROUP_LIMIT_Aggregate_Functions.md[SELECT ORDER GROUP  LIMIT Aggregate Functions]
+
+link:00._Course_Material/02._Slides/03._Databases_SQL_II/03._Foreign_Keys.md[Foreign Keys]
+
+link:00._Course_Material/02._Slides/03._Databases_SQL_II/04._SELECT_JOIN.md[SELECT JOIN]
+
+link:00._Course_Material/02._Slides/03._Databases_SQL_II/05._UPDATE_DELETE.md[UPDATE DELETE]
+
+link:00._Course_Material/02._Slides/03._Databases_SQL_II/06._PRs_and_Forks.md[PRs and Forks]
 
 a|
 Can define Primary Keys.
@@ -130,13 +140,12 @@ Can create DML (`UPDATE`, `DELETE`) statements.
 
 Can create a pull request.
 
-
 a| 
-// https://datalemur.com/sql-tutorial/sql-joins-inner-outer-left-right
+https://datalemur.com/sql-tutorial/sql-joins-inner-outer-left-right
 
-// link:00._Course_Material/01._Assignments/03._Databases_SQL_II/tech_company/tech_company.md[Tech Company]
+link:00._Course_Material/01._Assignments/03._Databases_SQL_II/tech_company/tech_company.md[Tech Company]
 
-// link:00._Course_Material/01._Assignments/03._Databases_SQL_II/Pull_request_exercise_1.pdf[Pull_request_exercise_1.pdf]
+link:00._Course_Material/01._Assignments/03._Databases_SQL_II/Pull_request_exercise_1.pdf[Pull_request_exercise_1.pdf]
 
 
 
@@ -149,9 +158,7 @@ a|
 
 Git Branching
 
-
-
-//GitHub Actions I
+GitHub Actions
 
 
 a|
@@ -182,7 +189,9 @@ a|
 | Sept. 22nd
 
 a|
-GitHub Actions II
+Hardware
+
+Software
 
 Number Representations
 - Binary
@@ -199,9 +208,6 @@ a|
 // Can explain different charsets like ASCII and Unicode and how they differ.
 a| 
 
-
-
-// ------------------------------------------------------------------------------------------------------------------------------------------------
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
