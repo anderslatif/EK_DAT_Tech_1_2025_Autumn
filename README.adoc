@@ -140,8 +140,6 @@ Can create DML (`UPDATE`, `DELETE`) statements.
 Can create a pull request.
 
 a| 
-https://datalemur.com/sql-tutorial/sql-joins-inner-outer-left-right
-
 link:00._Course_Material/01._Assignments/03._Databases_SQL_II/tech_company/tech_company.md[Tech Company]
 
 link:00._Course_Material/01._Assignments/03._Databases_SQL_II/Pull_request_exercise_1.pdf[Pull_request_exercise_1.pdf]
