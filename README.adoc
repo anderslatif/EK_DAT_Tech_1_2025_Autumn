@@ -140,11 +140,9 @@ Can create DML (`UPDATE`, `DELETE`) statements.
 Can create a pull request.
 
 a| 
-link:00._Course_Material/01._Assignments/03._Databases_SQL_II/tech_company/tech_company.md[Tech Company]
-
-link:00._Course_Material/01._Assignments/03._Databases_SQL_II/Pull_request_exercise_1.pdf[Pull_request_exercise_1.pdf]
-
 link:00._Course_Material/01._Assignments/03._Databases_SQL_II/work_with_joins.md[Work With Joins]
+
+link:00._Course_Material/01._Assignments/03._Databases_SQL_II/tech_company/tech_company.md[Tech Company]
 
 
 
@@ -181,6 +179,9 @@ a|
 // Pull_request_exercise_2_merge_conflict.pdf.
 
 // Visualizing_GitHub_Flow_v2.pdf[Optional - Visualizing GitHub Flow]
+
+//link:00._Course_Material/01._Assignments/03._Databases_SQL_II/Pull_request_exercise_1.pdf[Pull_request_exercise_1.pdf]
+
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 

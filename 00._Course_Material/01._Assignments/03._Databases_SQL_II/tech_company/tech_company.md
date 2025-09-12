@@ -1,6 +1,8 @@
 # Tech Company
 
-**Deadline**: This is mandatory I. 
+**Deadline**: This is mandatory I and the deadline is in Teamsx§. 
+
+**Hand-in**: Teams, hand in a link to the SQL file in your Git repository.
 
 For the JOIN assignments you are more than welcome to solve the exercises together.
 
