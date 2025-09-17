@@ -152,35 +152,39 @@ link:00._Course_Material/01._Assignments/03._Databases_SQL_II/tech_company/tech_
 | Sept. 19th
 
 a|
+link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/01._mvn_and_javac.md[MVN and javac]
 
-Git Branching
+link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/03._Advanced_Git.md[Advanced Git]
 
-GitHub Actions
+link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/04._Git_Branching.md[Git Branching]
 
+link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/05._YAML.md[YAML]
+
+link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/06._GitHub_Actions.md[GitHub Actions]
 
 a|
 
-// Understands different Git workflows such as GitHub Flow.
+Understands different Git workflows such as GitHub Flow.
 
-// Can solve a merge conflict.
+Can solve a merge conflict.
 
-// Can write YAML files.
+Can write YAML files.
 
-// Can give use cases for GitHub actions.
+Can give use cases for GitHub actions.
 
-// Understands what GitHub actions are and can breakdown workflows into runners, jobs, and steps.
+Understands what GitHub actions are and can breakdown workflows into runners, jobs, and steps.
 
 
 a| 
-// https://anderslatif.github.io/yaml_tutorial/
+https://anderslatif.github.io/yaml_tutorial/
 
-// Github_Actions.pdf
+link:00._Course_Material/01._Assignments/04._GitHub_Actions_I/GitHub_Actions_1.pdf[GitHub Actions 1]
 
-// Pull_request_exercise_2_merge_conflict.pdf.
+link:00._Course_Material/01._Assignments/04._GitHub_Actions_I/Pull_request_exercise_1.pdf[Pull Request Exercise 1]
 
-// Visualizing_GitHub_Flow_v2.pdf[Optional - Visualizing GitHub Flow]
+link:00._Course_Material/01._Assignments/04._GitHub_Actions_I/Pull_request_exercise_2_merge_conflict.pdf[Pull Request Exercise 2: Merge Conflict]
 
-//link:00._Course_Material/01._Assignments/03._Databases_SQL_II/Pull_request_exercise_1.pdf[Pull_request_exercise_1.pdf]
+link:00._Course_Material/01._Assignments/04._GitHub_Actions_I/Visualizing_GitHub_Flow.pdf[Optional: Visualizing GitHub Flow]
 
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
