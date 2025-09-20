@@ -170,9 +170,9 @@ Can solve a merge conflict.
 
 Can write YAML files.
 
-Can give use cases for GitHub actions.
+Can give use cases for GitHub Actions.
 
-Understands what GitHub actions are and can breakdown workflows into runners, jobs, and steps.
+Understands what GitHub Actions are and can breakdown workflows into runners, jobs, and steps.
 
 
 a| 
@@ -193,23 +193,30 @@ link:00._Course_Material/01._Assignments/04._GitHub_Actions_I/Visualizing_GitHub
 | Sept. 22nd
 
 a|
-Hardware
+link:00._Course_Material/02._Slides/05._Hardware_Software_Number_Representations_Encoding/01._Hardware.md[Hardware]
 
-Software
+link:00._Course_Material/02._Slides/05._Hardware_Software_Number_Representations_Encoding/02._Software.md[Software]
 
-Number Representations
-- Binary
-- Hex
-- Charsets (ASCII / Unicode)
+link:00._Course_Material/02._Slides/05._Hardware_Software_Number_Representations_Encoding/03._Number_Representations.md[Number Representations]
+
+link:00._Course_Material/02._Slides/05._Hardware_Software_Number_Representations_Encoding/04._Encoding.md[Encoding]
 
 a|
-// Can explain how computers work, starting from hardware all the way to software.
+Can list the main hardware components of a computer and their functions.
 
-// Can talk about processes in operating systems.
+Can explain how computers work, starting from hardware all the way to software.
 
-// Can talk about different number representations and what they are used for.
+Can talk about processes in operating systems.
 
-// Can explain different charsets like ASCII and Unicode and how they differ.
+Can talk about different number representations such as:
+
+* Binary
+* Hexadecimal
+* Decimal
+
+Can bring up real-world use cases for different number representations.
+
+Can explain different charsets like ASCII and Unicode and how they differ.
 a| 
 
 
